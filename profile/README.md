@@ -8,7 +8,7 @@ In the virtualization industry since 2012, we deliver an open virtualization pla
 
 ## ⚡ What we do
 
-We build a fully secure and open virtualization stack. See for yourself!
+We build a secure and open virtualization stack. See for yourself!
 
 
 <table style="border: none;">
