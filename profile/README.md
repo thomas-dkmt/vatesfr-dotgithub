@@ -4,7 +4,7 @@
 
 We help our customers build reliable and efficient infrastructure while cutting their virtualization license costs to zero. Our value lies in the professional support we provide, not in licenses we sell!
 
-With 14 years of experience in the virtualization industry, we deliver an open virtualization platform, backed by high-end professional support, that makes managing your virtual infrastructure simple.
+In the virtualization industry since 2012, we deliver an open virtualization platform, backed by high-end professional support, that makes managing your virtual infrastructure simple.
 
 ## ⚡ What we do
 
